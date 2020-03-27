@@ -2,6 +2,8 @@
 # точек вывести уравнение прямой вида y = kx + b,
 # проходящей через эти точки.
 
+# https://drive.google.com/file/d/1qX2Olvp25iM14p1tzWp6y3DTM4PZjLRk/view?usp=sharing
+
 print("Координаты точки A(x1;y1):")
 x1 = float(input("\tx1 = "))
 y1 = float(input("\ty1 = "))
