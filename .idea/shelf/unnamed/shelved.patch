@@ -1,0 +1,20 @@
+Index: venv/Les_2_task_3.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>i = 0\nwhile i <= 10:\n    print(i)\n    i+=1\n1111\n\nfor i in range(11):\n    print(i)\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- venv/Les_2_task_3.py	(revision 5ad56933805bba7b09fe492ca25db6b622fc6692)
++++ venv/Les_2_task_3.py	(date 1585645090459)
+@@ -1,8 +1,7 @@
+ i = 0
+ while i <= 10:
+     print(i)
+-    i+=1
+-1111
+-
++    i += 1
++2313132
+ for i in range(11):
+     print(i)
